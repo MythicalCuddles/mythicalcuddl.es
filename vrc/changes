@@ -1,54 +1,16 @@
-<color=yellow>VERSION 1.00.000</color>  |  <color=green>20-APR-2023</color></u></b>
+<color=yellow>VERSION 1.0.0</color>  |  <color=green>09-Sept-2023</color></u></b>
 
-  ● Initial launch of the asset pack.
-
-
-<color=yellow>VERSION 1.00.001</color>  |  <color=green>15-MAY-2023</color></u></b>
-
-  ● Improvements to the Dynamic Portals and the Dynamic Image Reader Prefabs.
+  ● Initial creation of the world.
 
 
-<color=yellow>VERSION 1.00.002</color>  |  <color=green>02-JUL-2023</color></u></b>
+<color=yellow>VERSION 1.1.0</color>  |  <color=green>11-Nov-2023</color></u></b>
 
-  ● Resolved the problem where players sent to ban jail were clipping through 
-    the floor and caught in an endless falling loop.
-
-  ● Moved the ban jail closer to origin, so that the VRC menu could be used
-    without problems (known floating point error that occurs at far distances
-    from the origin point 0,0,0).
-
-  ● Revamped the way that the Ban Player Prefab works.
-
-  ● Text file can now contain the infraction type that the player committed.
-
-  ● Players listed in the text file will have a banner placed over their head
-    showing their infraction.
-
-  ● Added an option to just have players on the list sent to jail directly
-    (do not recommend).
+  ● Launched world into Labs.
 
 
-<color=yellow>VERSION 1.00.004</color>  |  <color=green>05-AUG-2023</color></u></b>
+<color=yellow>VERSION 1.2.0</color>  |  <color=green>21-Dec-2023</color></u></b>
 
-  ● Added a Banned Users Online list that displays any users marked
-    for an offense, as well as the offense they've committed.
+  ● Added AudioLink!
 
-
-<color=yellow>VERSION 1.01.005</color>  |  <color=green>14-SEP-2023</color></u></b>
-
-  ● Re-wrote the User Offense system.  Instead of using pre-programmed
-    Offense Codes, the world builder can define the Offense Codes, the title
-    of the Offense, the color associated with the offense, and whether the 
-    player is banned or muted under an offense.
-
-  ● Improved the banned player containment system.
-
-
-<color=yellow>VERSION 1.01.006</color>  |  <color=green>20-APR-2025</color></u></b>
-
-  ● This is the Future!
-
-
-<color=yellow>VERSION 1.01.007</color>  |  <color=green>20-APR-2025</color></u></b>
-
-  ● This is the Future!
+  ● Added this board to show supporters and changes, along with a grid for AudioLink.
+    Changes for how Stream Camera is used coming soon.
