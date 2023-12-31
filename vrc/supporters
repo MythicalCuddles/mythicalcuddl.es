@@ -32,8 +32,8 @@
 //  +1 = Friend
 //  +2 = Contributor (for this world)
 //  +3 = Friend/Contributor (for this world)
-//  +4 = TBD
-//
+//  +4 = DJ
+//  +5 = Friend/DJ
 // =============================================
  
 // (RANK 90) LEGENDARY SUPPORTERS
@@ -44,7 +44,10 @@
 
 // (RANK 60) SUPER SUPPORTERS
 
-// (RANK 50) VIP PATRON
+// (RANK 50) VIP
+DJ Jigsaw,55
+BamCLC99,51
+Bynni,51
 
 // (RANK 40) DIE-HARD PATRON
  
