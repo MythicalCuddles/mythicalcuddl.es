@@ -37,12 +37,15 @@
 // =============================================
  
 // (RANK 90) LEGENDARY SUPPORTERS
+MythicalCuddles,94
+Ｍｙｔｈｉｃａｌ,94
 
 // (RANK 80) HISTORIC SUPPORTERS
 
 // (RANK 70) EPIC SUPPORTERS
 
 // (RANK 60) SUPER SUPPORTERS
+
 
 // (RANK 50) VIP
 DJ Jigsaw,55
@@ -59,11 +62,12 @@ Bynni,51
 
 
 // ADD-ON MEMBER MODIFIERS
+// (+5) Friend/DJ
+
+// (+4) DJ
+
 // (+3) FRIEND/CONTRIBUTORS
-ThisguyJake,3
 
 // (+2) CONTRIBUTORS
  
 // (+1) FRIENDS
-Vosy,1
-Zérod,1
