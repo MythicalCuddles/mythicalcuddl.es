@@ -10,12 +10,15 @@
 //
 //
 // RANK LIST (Just some Sample Ranks, feel free to change here and in the UDONsupporterList Script):
-//  90 = Legendary     >$40  Gold
+//  90 = Limelight Staff     Gold
+
 //  80 = Historic      >$30  Light Orange
 //  70 = Epic          >$20  Light Blue
 //  60 = Super         >$10  Light Green
 //  50 = VIP Patron     $10  Orange
-//  40 = Die-Hard Patron $5  Purple
+
+//  40 = Mint Staff          Purple
+
 //  30 = Official Patron $3  Blue
 //  20 = Admirer         $1  Green
 //  10 = One-Time Supporter  White
@@ -28,9 +31,12 @@
 //  +5 = Friend/DJ
 // =============================================
  
-// (RANK 90) LEGENDARY SUPPORTERS
-MythicalCuddles,254
-Ｍｙｔｈｉｃａｌ,94
+// (RANK 90) Limelight
+MythicalCuddles,91
+Ｍｙｔｈｉｃａｌ,91
+Zérod,90
+ThisguyJake,90
+Kɪsᴀ,90
 
 // (RANK 80) HISTORIC SUPPORTERS
 
@@ -38,13 +44,12 @@ MythicalCuddles,254
 
 // (RANK 60) SUPER SUPPORTERS
 
-
 // (RANK 50) VIP
-DJ Jigsaw,55
-BamCLC99,51
-Bynni,51
 
-// (RANK 40) DIE-HARD PATRON
+// (RANK 40) Mint
+DJ Jigsaw,41
+BamCLC99,40
+Bynni,40
  
 // (RANK 30) OFFICIAL PATRON
 
