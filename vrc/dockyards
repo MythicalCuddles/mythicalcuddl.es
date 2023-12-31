@@ -10,14 +10,14 @@
 //
 //
 // RANK LIST (Just some Sample Ranks, feel free to change here and in the UDONsupporterList Script):
-//  90 = Limelight Staff     Gold
+//  90 = Limelight     f300ff - Pure (or mostly pure) magenta
+//  80 = Mint          710bbc - Strong violet
 
-//  80 = Historic      >$30  Light Orange
 //  70 = Epic          >$20  Light Blue
 //  60 = Super         >$10  Light Green
 //  50 = VIP Patron     $10  Orange
 
-//  40 = Mint Staff          Purple
+//  40 = asdf         Purple
 
 //  30 = Official Patron $3  Blue
 //  20 = Admirer         $1  Green
@@ -38,7 +38,11 @@ Zérod,90
 ThisguyJake,90
 Kɪsᴀ,90
 
-// (RANK 80) HISTORIC SUPPORTERS
+// (RANK 80) Mint
+DJ Jigsaw,41
+BamCLC99,40
+Bynni,40
+
 
 // (RANK 70) EPIC SUPPORTERS
 
@@ -46,10 +50,7 @@ Kɪsᴀ,90
 
 // (RANK 50) VIP
 
-// (RANK 40) Mint
-DJ Jigsaw,41
-BamCLC99,40
-Bynni,40
+// (RANK 40) asdf
  
 // (RANK 30) OFFICIAL PATRON
 
