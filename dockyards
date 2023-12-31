@@ -1,0 +1,65 @@
+// =============================================
+// DJ & Friends List
+// =============================================
+//
+// FORMAT : Supporter Name,Rank
+// EXAMPLE: Frank Rizzo,50
+// EXAMPLE: Barry Ramos,32
+// EXAMPLE: Karen Smith,3
+// EXAMPLE: Bob Dillan
+//
+//
+// RANK LIST (Just some Sample Ranks, feel free to change here and in the UDONsupporterList Script):
+//  90 = Legendary     >$40  Gold
+//  80 = Historic      >$30  Light Orange
+//  70 = Epic          >$20  Light Blue
+//  60 = Super         >$10  Light Green
+//  50 = VIP Patron     $10  Orange
+//  40 = Die-Hard Patron $5  Purple
+//  30 = Official Patron $3  Blue
+//  20 = Admirer         $1  Green
+//  10 = One-Time Supporter  White
+//
+// ADD-ON MODIFIERS:
+//  +1 = Friend
+//  +2 = Contributor (for this world)
+//  +3 = Friend/Contributor (for this world)
+//  +4 = DJ
+//  +5 = Friend/DJ
+// =============================================
+ 
+// (RANK 90) LEGENDARY SUPPORTERS
+MythicalCuddles,94
+Ｍｙｔｈｉｃａｌ,94
+
+// (RANK 80) HISTORIC SUPPORTERS
+
+// (RANK 70) EPIC SUPPORTERS
+
+// (RANK 60) SUPER SUPPORTERS
+
+
+// (RANK 50) VIP
+DJ Jigsaw,55
+BamCLC99,51
+Bynni,51
+
+// (RANK 40) DIE-HARD PATRON
+ 
+// (RANK 30) OFFICIAL PATRON
+
+// (RANK 20) ADMIRER
+ 
+// (RANK 10) ONE-TIME DONATORS
+
+
+// ADD-ON MEMBER MODIFIERS
+// (+5) Friend/DJ
+
+// (+4) DJ
+
+// (+3) FRIEND/CONTRIBUTORS
+
+// (+2) CONTRIBUTORS
+ 
+// (+1) FRIENDS
