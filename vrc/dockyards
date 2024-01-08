@@ -1,34 +1,20 @@
 // =============================================
-// DJ & Friends List
+//  DJ & Friends List
 // =============================================
 //
-// FORMAT : Supporter Name,Rank
-// EXAMPLE: Frank Rizzo,50
-// EXAMPLE: Barry Ramos,32
-// EXAMPLE: Karen Smith,3
-// EXAMPLE: Bob Dillan
-//
-//
-// RANK LIST (Just some Sample Ranks, feel free to change here and in the UDONsupporterList Script):
+//  RANK LIST
 //  90 = Limelight     f300ff - Pure (or mostly pure) magenta
 //  80 = Mint          710bbc - Strong violet
-
-//  70 = Epic          >$20  Light Blue
-//  60 = Super         >$10  Light Green
-//  50 = VIP Patron     $10  Orange
-
-//  40 = asdf         Purple
-
-//  30 = Official Patron $3  Blue
-//  20 = Admirer         $1  Green
-//  10 = One-Time Supporter  White
+//  70 = 
+//  60 = 
+//  50 = 
+//  40 = 
+//  30 = 
+//  20 = 
+//  10 = 
 //
-// ADD-ON MODIFIERS:
-//  +1 = Friend
-//  +2 = Contributor (for this world)
-//  +3 = Friend/Contributor (for this world)
-//  +4 = DJ
-//  +5 = Friend/DJ
+//  ADD-ON MODIFIERS:
+//  +1 = DJ
 // =============================================
  
 // (RANK 90) Limelight
@@ -43,29 +29,20 @@ DJ Jigsaw,81
 BamCLC99,80
 Bynni,80
 
+// (RANK 70)
 
-// (RANK 70) EPIC SUPPORTERS
+// (RANK 60)
 
-// (RANK 60) SUPER SUPPORTERS
+// (RANK 50)
 
-// (RANK 50) VIP
-
-// (RANK 40) asdf
+// (RANK 40)
  
-// (RANK 30) OFFICIAL PATRON
+// (RANK 30)
 
-// (RANK 20) ADMIRER
+// (RANK 20)
  
-// (RANK 10) ONE-TIME DONATORS
+// (RANK 10)
 
 
 // ADD-ON MEMBER MODIFIERS
-// (+5) Friend/DJ
-
-// (+4) DJ
-
-// (+3) FRIEND/CONTRIBUTORS
-
-// (+2) CONTRIBUTORS
- 
-// (+1) FRIENDS
+// (+1) DJ without Club or Base
