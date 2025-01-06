@@ -4,6 +4,39 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>DJ MythicalCuddles</title>
+  <style>
+    body {
+      background-color: white;
+      color: black;
+    }
+    body.dark-mode {
+      background-color: black;
+      color: white;
+    }
+    .dark-mode-toggle {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      background: none;
+      border: 1px solid currentColor;
+      padding: 5px;
+      cursor: pointer;
+    }
+  </style>
+  <script>
+    function toggleDarkMode() {
+      document.body.classList.toggle('dark-mode');
+      const isDarkMode = document.body.classList.contains('dark-mode');
+      localStorage.setItem('dark-mode', isDarkMode);
+    }
+
+    window.onload = function() {
+      const isDarkMode = localStorage.getItem('dark-mode') === 'true';
+      if (isDarkMode) {
+        document.body.classList.add('dark-mode');
+      }
+    }
+  </script>
 </head>
 <body>
   <h1>mythicalcuddl.es/dj/</h1>
@@ -12,5 +45,7 @@
     <li><a href="https://youtu.be/qKHb6YY0cPg">[YouTube]: 🔥 [BERSERK IV] DJ MythicalCuddles - UK HARDCORE / HAPPY HARDCORE [27 July 2024]</a></li>
     <li><a href="https://youtu.be/8ZQRPaIT82U">[YouTube]: 🔥 [Popup] DJ MythicalCuddles - Trance/Hard-Trance [27 September 2024]</a></li>
   </ul>
+  <br />
+  <button class="dark-mode-toggle" onclick="toggleDarkMode()">Toggle Dark Mode</button>
 </body>
 </html>
