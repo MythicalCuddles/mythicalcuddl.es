@@ -1,0 +1,44 @@
+{
+    "CopyrightDetails": "Copyright 2025 MythicalCuddles",
+    "LatestBanner": "LATEST BANNER TEST - IGNORE",
+    "LatestNews": "LATEST NEWS TEST - IGNORE",
+    "Developers": [
+      {
+        "DisplayName": "Melissa",
+        "GitHubUsername": "MythicalCuddles",
+        "PatreonLink": "https://www.patreon.com/mythicalcuddles",
+        "Website": "https://mythicalcuddl.es",
+        "DevelopmentRole": "Developer",
+        "ContactInfo": "melissa@mythicalcuddles.xyz"
+      }
+    ],
+    "ApplicationLinks": [
+      {
+        "WebsiteName": "Wiki",
+        "WebsiteUrl": "https://docs.mythicalcuddl.es/"
+      },
+      {
+        "WebsiteName": "Source Code",
+        "WebsiteUrl": "https://github.com/MythicalCuddles/Daylog"
+      }
+    ],
+    "PatreonSupportLink": "https://www.patreon.com/mythicalcuddles",
+    "Patreons": [
+      {
+        "Name": "null",
+        "SupporterLevel": "0",
+        "ImageURL": "null",
+        "Message": "null"
+      }
+    ],
+    "LatestVersion": {
+      "major": 0,
+      "minor": 1,
+      "build": 2501,
+      "revision": 0,
+      "majorRevision": -1,
+      "minorRevision": -1
+    },
+    "UpdateUrl": "https://github.com/MythicalCuddles/Daylog/releases"
+  }
+  
