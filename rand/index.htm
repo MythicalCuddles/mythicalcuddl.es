@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mythicalcuddl.es/rand/</title>
+  <style>
+    body {
+      background-color: white;
+      color: black;
+    }
+    body.dark-mode {
+      background-color: black;
+      color: white;
+    }
+    .dark-mode-toggle {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      background: none;
+      border: 1px solid currentColor;
+      padding: 5px;
+      cursor: pointer;
+    }
+    button.dark-mode {
+      background-color: black;
+      color: white;
+    }
+  </style>
+  <script>
+    function toggleDarkMode() {
+      document.body.classList.toggle('dark-mode');
+      const isDarkMode = document.body.classList.contains('dark-mode');
+      localStorage.setItem('dark-mode', isDarkMode);
+    }
+
+    window.onload = function() {
+      const isDarkMode = localStorage.getItem('dark-mode') === 'true';
+      if (isDarkMode) {
+        document.body.classList.add('dark-mode');
+      }
+    }
+  </script>
+</head>
+<body>
+  <h1>/rand/om</h1>
+  <p>Majority of these links will probably return a blank page unless you know exactly what you're looking for 😊</p>
+  <ul>
+    <li><a href="https://mythicalcuddl.es" target="_blank">mythicalcuddl.es</a></li>
+    <li><a href="https://mythicalcuddl.es/art" target="_blank">/art/ - Artwork Storage</a></li>
+    <li><a href="https://mythicalcuddl.es/dis" target="_blank">/dis/ - Discord Link</a></li>
+    <li><a href="https://mythicalcuddl.es/dj" target="_blank">/dj/ - DJ Streams and Recordings</a></li>
+    <li><a href="https://mythicalcuddl.es/dnd" target="_blank">/dnd/ - Dungeons and Dragons Storage</a></li>
+    <li><a href="https://mythicalcuddl.es/rand" target="_blank">/rand/ - Random Stuff - <b>Returns you to this page!</b></a></li>
+    <li><a href="https://mythicalcuddl.es/v" target="_blank">/v/ - Version Control for Software</a></li>
+    <li><a href="https://mythicalcuddl.es/vrc" target="_blank">/vrc/ - VRChat Storage</a></li>
+  </ul>
+  
+  <br />
+  <button class="dark-mode-toggle" onclick="toggleDarkMode()">Toggle Dark Mode</button>
+</body>
+</html>
